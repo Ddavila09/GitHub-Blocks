@@ -1,0 +1,48 @@
+.box {
+    background-color: #eeeeff;
+    border: solid 2px black;
+    padding: 25px;
+    width: 90%;
+}
+
+h1 {
+    text-align:center;
+    font-weight: bolder;
+}
+
+.cat{
+    height: 20vw;
+}
+
+.block{
+    flex: 1;
+}
+.blocks1{
+    background-color: #50bff7;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+
+.blocks2{
+    background-color: #d8a4c3;
+    display: flex;
+    display: flex;
+    padding: 20px;
+    justify-content: space-evenly;
+    margin-bottom: 25px;
+}
+
+.blocks3{
+    background-color: white;
+    display: flex;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+
+p {
+    text-align: center;
+}
